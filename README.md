@@ -1,6 +1,6 @@
 # Installing Vision by Daguio, Diaz, and Tabual
 - The use of Anaconda is prefered.
-- `git clone "https://github.com/EJD222/CCS40FINALPROJECT.git"
+- `git clone "https://github.com/EJD222/CCS40FINALPROJECT.git"`
 - cd <newly Created folder>
 - `conda create -n envyolov5 pip python=3.9` or `python -m venv envyolov5`
 - `conda activate envyolov5` or `.\envyolov5\Scripts\activate` for Windows 
