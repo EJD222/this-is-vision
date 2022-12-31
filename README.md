@@ -1,5 +1,4 @@
 # Installing Vision by Daguio, Diaz, and Tabual
-# Please ignore this if the app can be pre-installed. (In this case the file of the app is pre-installed ready together with YOLOv5, you only need to pip install the necessary imports.)
 - The use of Anaconda is prefered.
 - `git clone "github_link"`
 - cd <newly Created folder>
