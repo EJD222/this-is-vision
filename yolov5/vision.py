@@ -226,7 +226,7 @@ def main():
                 height = int(capture.get(cv2.CAP_PROP_FRAME_HEIGHT))
                 print("Height: ", height, "\n")
 
-                while path_of_LiveFeed.isOpened():
+                while capture.isOpened():
                     ret, img = capture.read()
                     if ret:
                         stframe.image(cv2.resize(img, (width, height)), channels = 'BGR', use_column_width = True)
