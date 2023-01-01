@@ -1,4 +1,8 @@
-# Installing Vision
+# Welcome to VISION!
+
+VISION stands for "Visually Intelligent System for Identifying Objects in Nature". It is a Multiple Object Detection Web Application powered by Python and Streamlit
+
+# Installing VISION
 - The use of Anaconda is prefered.
 - `git clone "https://github.com/EJD222/CCS40FINALPROJECT.git"`
 - cd <newly Created folder>
