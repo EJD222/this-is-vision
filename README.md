@@ -1,4 +1,4 @@
-# Installing Vision by Daguio, Diaz, and Tabual
+# Installing Vision
 - The use of Anaconda is prefered.
 - `git clone "https://github.com/EJD222/CCS40FINALPROJECT.git"`
 - cd <newly Created folder>
